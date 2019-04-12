@@ -1,0 +1,12 @@
+name: ShinyPresentation
+title: ShinyPresentation
+username:
+account: andresmorales
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 860895
+bundleId: 2006576
+url: https://andresmorales.shinyapps.io/ShinyPresentation/
+when: 1555093385.22334
+asMultiple: FALSE
+asStatic: FALSE
